@@ -3,4 +3,4 @@ Resolusi
 - Lorem ipsum dolor
 - Lorem
 - Ipsum lorem
-- Lorem lorem
+- Lorems
