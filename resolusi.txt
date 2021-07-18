@@ -2,3 +2,5 @@ Resolusi
 - Lorem ipsum
 - Lorem ipsum dolor
 - Lorem
+- Ipsum lorem
+- Lorem lorem
